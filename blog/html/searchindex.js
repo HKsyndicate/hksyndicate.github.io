@@ -1,1 +1,1 @@
-Search.setIndex({envversion:42,terms:{hangout:1,photo:1,blog:1,test:1,alt:1,page:1,out:1},objtypes:{},objnames:{},filenames:["master","2014/01/30/hk_first_post"],titles:["Sitemap","HK First Post"],objects:{},titleterms:{post:1,sitemap:0,first:1}})
+Search.setIndex({envversion:42,terms:{test:1,blog:1,page:1,out:1},objtypes:{},objnames:{},filenames:["master","2014/01/30/hk_first_post"],titles:["Sitemap","HK First Post"],objects:{},titleterms:{post:1,sitemap:0,first:1}})

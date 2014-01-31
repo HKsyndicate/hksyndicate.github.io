@@ -11,7 +11,7 @@ import tinkerer.paths
 project = 'HK Blog'
 
 # Change this to the tagline of your blog
-tagline = "HK's newest blog..stil setting up"
+tagline = "HK's newest blog!"
 
 # Change this to the description of your blog
 description = 'Blog where the HK lives'
@@ -23,7 +23,7 @@ author = 'Luis Fuentes'
 copyright = '2014, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://hk.github.com'
+website = 'http://hksyndicate.github.com'
 
 # **************************************************************
 # More tweaks you can do
