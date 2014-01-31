@@ -8,10 +8,10 @@ import tinkerer.paths
 # **************************************************************
 
 # Change this to the name of your blog
-project = 'HK Blog'
+project = "HK Syndicate"
 
 # Change this to the tagline of your blog
-tagline = "HK's newest blog!"
+tagline = "HK's Blog"
 
 # Change this to the description of your blog
 description = 'Blog where the HK lives'
@@ -33,13 +33,13 @@ website = 'http://hksyndicate.github.com'
 disqus_shortname = None
 
 # Change your favicon (new favicon goes in _static directory)
-html_favicon = 'tinkerer.ico'
+html_favicon = 'hk.ico'
 
 # Pick another Tinkerer theme or use your own
 html_theme = "flat"
 
 # Theme-specific options, see docs
-html_theme_options = { }
+html_theme_options = {}
 
 # Link to RSS service like FeedBurner if any, otherwise feed is
 # linked directly
